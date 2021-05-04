@@ -3,7 +3,7 @@
 
 >This repository consist of my AVR project I made to demonstrate interfacing of LCD with Keypad
 >
->Presentation of the project can be found [here](https://github.com/Jayshil-Patel/AVR-Project/blob/main/AVR-project/18ec068-AVR_project.pptx)
+>The presentation of the project can be found [here](https://github.com/Jayshil-Patel/AVR-Project/blob/main/AVR-project/18ec068-AVR_project.pptx)
 
 ## Contact Info
 >[![Whats app link](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918141487230)
