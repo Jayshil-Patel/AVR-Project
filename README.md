@@ -1,6 +1,8 @@
 # AVR-Project
 
+
 >This repository consist of my AVR project I made to demonstrate interfacing of LCD with Keypad
+>
 >Presentation of the project can be found [here](https://github.com/Jayshil-Patel/AVR-Project/blob/main/AVR-project/18ec068-AVR_project.pptx)
 
 ## Contact Info
